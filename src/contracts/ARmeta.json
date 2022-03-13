@@ -1,0 +1,20 @@
+{
+    "image":"",
+    "name":"",
+    "description":"",
+    "attributes":[],
+    "daoMembers":[""],
+    "governance":{
+      "voteTime":100000,
+      "voteRate":0.2,
+      "governanceRules":{
+        "image":true,
+        "name":true,
+        "description":true,
+        "attributes":true,
+        "daoMembers":true,
+        "governance":true
+      }  
+    },
+    "votes":[]  
+}

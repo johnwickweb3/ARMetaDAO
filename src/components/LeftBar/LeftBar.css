@@ -1,0 +1,42 @@
+.leftbar{
+    width: 100%;
+}
+.leftbar_logo{
+  text-align: center;
+  margin-top: 50px;
+}
+.leftbar_menu{
+    margin-top: 40px;
+}
+.leftbar_menu_nor{
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    height: 60px;
+    border-radius: 5px;
+    line-height: 60px;
+    margin-top: 20px;
+    color: #000;
+    padding-left: 40px;
+}
+.leftbar_menu_select{
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    height: 60px;
+    background: #fff;
+    text-align: left;
+    border-radius: 5px;
+    line-height: 60px;
+    margin-top: 20px;
+    color: #000;
+    padding-left: 40px;
+}
+.leftbar_menu  a{
+    color: #000;
+}
+.menuItemLink{
+    width: 100%;
+    height: 60px;
+}
