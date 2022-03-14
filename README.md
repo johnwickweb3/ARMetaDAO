@@ -1,7 +1,11 @@
 # ARMetaDAO
 Manage your metadata with a DAO on the arweave network, ARMetaDAO makes metadata scalable.
 
-## [ 📺 Youtube](https://www.youtube.com/watch?v=sSxkkXnGYCg)
+[**🌐 https://armetadao.com/**](https://armetadao.com/)
+
+ [ **📺 Youtube**](https://www.youtube.com/watch?v=sSxkkXnGYCg)
+
+
 
 ## What is ARMetaDAO?
 It is a metadata management platform built on arweave. You can convert any media resource or content into ARMeta and store it on arweave, and you can govern your ARMeta with a DAO, which makes your metadata more flexible.
